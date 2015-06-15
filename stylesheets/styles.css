@@ -132,8 +132,8 @@ html {
   -ms-text-size-adjust: 100%;
   /* 2 */
 }
-#text {
-  margin-right:10px;
+p {
+  margin-right: 15px;
 }
 /*
  * Addresses font-family inconsistency between 'textarea' and other form elements.
